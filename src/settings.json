@@ -1,0 +1,71 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Discover lol, the ultimate platform to share joy, spread smiles, and connect through humor.",
+        "title": "Unleash the Power of Laughter"
+      }
+    },
+    {
+      "id": "NavbarSimple",
+      "variables": {
+        "subtitle": "Discover lol, the ultimate platform to share joy, spread smiles, and connect through humor.",
+        "title": "Unleash the Power of Laughter"
+      }
+    },
+    {
+      "id": "HeroWithOffsetImage",
+      "variables": {
+        "subtitle": "Discover lol, the ultimate platform to share joy, spread smiles, and connect through humor.",
+        "title": "Unleash the Power of Laughter"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Discover lol, the ultimate platform to share joy, spread smiles, and connect through humor.",
+        "title": "Unleash the Power of Laughter"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Discover lol, the ultimate platform to share joy, spread smiles, and connect through humor.",
+        "title": "Unleash the Power of Laughter"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Discover lol, the ultimate platform to share joy, spread smiles, and connect through humor.",
+        "title": "Unleash the Power of Laughter"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Discover lol, the ultimate platform to share joy, spread smiles, and connect through humor.",
+        "title": "Unleash the Power of Laughter"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Discover lol, the ultimate platform to share joy, spread smiles, and connect through humor.",
+        "title": "Unleash the Power of Laughter"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Discover lol, the ultimate platform to share joy, spread smiles, and connect through humor.",
+        "title": "Unleash the Power of Laughter"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Unleash the Power of Laughter",
+  "subtitle": "Discover lol, the ultimate platform to share joy, spread smiles, and connect through humor."
+}
